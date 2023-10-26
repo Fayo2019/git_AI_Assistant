@@ -20,4 +20,4 @@ This will open a terminal conversation window for you to question the repo the U
 
 + The current app is not containerised, given more time I'd definitely look into creating a docker container around this app to get it ready for production
 
-+ As a point of risk: this app uses openai's embedding and text-davinci-003 models via API calls. So if there's an issue connecting to these models, the app would not function properly.  Pricing information for the models is available [here] (https://openai.com/pricing)
++ As a point of risk: this app uses openai's embedding and text-davinci-003 models via API calls. So if there's an issue connecting to these models, the app would not function properly.  Pricing information for the models is available here https://openai.com/pricing
