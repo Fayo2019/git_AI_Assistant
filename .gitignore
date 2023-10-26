@@ -1,0 +1,5 @@
+.DS_store
+venv/
+.vscode/
+src/__pycache__/utils.cpython-311.pyc
+chroma/rest-api-description/chroma.sqlite3
